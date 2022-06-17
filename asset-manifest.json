@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2e3daeb.chunk.css",
+    "main.js": "/static/js/main.1be32c42.chunk.js",
+    "main.js.map": "/static/js/main.1be32c42.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b4513905.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b4513905.js.map",
+    "static/css/2.419b78ef.chunk.css": "/static/css/2.419b78ef.chunk.css",
+    "static/js/2.22935fbd.chunk.js": "/static/js/2.22935fbd.chunk.js",
+    "static/js/2.22935fbd.chunk.js.map": "/static/js/2.22935fbd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.607fa6a1758323dc11e5066cf2d9548a.js": "/precache-manifest.607fa6a1758323dc11e5066cf2d9548a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.419b78ef.chunk.css.map": "/static/css/2.419b78ef.chunk.css.map",
+    "static/css/main.e2e3daeb.chunk.css.map": "/static/css/main.e2e3daeb.chunk.css.map",
+    "static/js/2.22935fbd.chunk.js.LICENSE.txt": "/static/js/2.22935fbd.chunk.js.LICENSE.txt",
+    "static/media/flag-icon.min.css": "/static/media/zw.ad4ad36d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4513905.js",
+    "static/css/2.419b78ef.chunk.css",
+    "static/js/2.22935fbd.chunk.js",
+    "static/css/main.e2e3daeb.chunk.css",
+    "static/js/main.1be32c42.chunk.js"
+  ]
+}
